@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "name",
+      "description": "Hi i am maahi",
+      "id": 1
+    },
+    {
+      "title": "create stream",
+      "description": "this stream made by me!",
+      "id": 5
+    },
+    {
+      "title": "Cri",
+      "description": "India vs west-indies tour from august",
+      "id": 6
+    },
+    {
+      "title": "zomato1",
+      "description": "food delivery fast",
+      "id": 10
+    },
+    {
+      "title": "Cricket 1",
+      "description": "this ball is unique and good.",
+      "id": 11
+    },
+    {
+      "title": "tytdhgvkhuguoffyu",
+      "description": "hugfyufoy",
+      "userId": "113277111713424625711",
+      "id": 12
+    }
+  ]
+}
